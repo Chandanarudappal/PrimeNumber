@@ -1,0 +1,16 @@
+<mobiles><mobile Company="SamSung">
+<cost value="25000"/>
+<ram value="6GB"/>
+<model name="Samsung A52"/>
+</mobile>
+<mobile Company=" Realme">
+<cost value="14500"/>
+<ram value="4GB"/>
+<model name="realme 5pro"/>
+</mobile>
+<mobile Company=" Redmi">
+<cost value="13500"/>
+<ram value="4GB"/>
+<model name="redmi note 10"/>
+</mobile>
+</mobiles>
